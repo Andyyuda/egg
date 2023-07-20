@@ -1,8 +1,8 @@
 <p align="center">
-  <b><!--<a href="https://github.com/givpn/aio">-->sedang offline</a></b><br>
-  <b><!--<a href="https://github.com/givpn/aio">-->Auto Script VPS For Create VPN on Debian or Ubuntu Server</a></b><br>
-  <b><!--<a href="https://github.com/givpn/aio">-->Also check VPS support provider to use VPN/PROXY,? because some VPS providers prohibit the use of VPN/PROXY</a></b><br>
-  <b><!--<a href="https://github.com/givpn/aio">-->Script (FREE) to use not for (SALE)</a></b><br>
+  <b><!--<a href="https://github.com/Andyyuda/Andyyuda">-->sedang offline</a></b><br>
+  <b><!--<a href="https://github.com/Andyyuda/Andyyuda">-->Auto Script VPS For Create VPN on Debian or Ubuntu Server</a></b><br>
+  <b><!--<a href="https://github.com/Andyyuda/Andyyuda">-->Also check VPS support provider to use VPN/PROXY,? because some VPS providers prohibit the use of VPN/PROXY</a></b><br>
+  <b><!--<a href="https://github.com/Andyyuda/Andyyuda">-->Script (FREE) to use not for (SALE)</a></b><br>
 
 <div>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=0600F7&center=true&vCenter=true&width=435&lines=Welcome+to+givpn+in+github;Not+an+expert+just+a+hobbyist" alt="Typing SVG" /></a></h1>

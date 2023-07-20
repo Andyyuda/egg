@@ -1,1 +1,1 @@
-# egg
+# minimal kasih star
